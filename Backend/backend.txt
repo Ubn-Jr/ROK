@@ -1,0 +1,3509 @@
+
+BODYTYPES
+
+{
+    "status": "success",
+    "bodytypes": [
+        {
+            "id": 1101,
+            "imageSrc": "https://www.doppelme.com/PM11101:C1471:A2FFDAB9/crop.png"
+        },
+        {
+            "id": 1102,
+            "imageSrc": "https://www.doppelme.com/PM11102:C1471:A2FFDAB9/crop.png"
+        }
+    ]
+}
+
+ASSETS
+{
+    "status": "success",
+    "asset_style": [
+        {
+            "type": "background"
+        },
+        {
+            "type": "bottom"
+        },
+        {
+            "type": "eye"
+        },
+        {
+            "type": "face"
+        },
+        {
+            "type": "facial"
+        },
+        {
+            "type": "foot"
+        },
+        {
+            "type": "hair"
+        },
+        {
+            "type": "hat"
+        },
+        {
+            "type": "item"
+        },
+        {
+            "type": "top"
+        }
+    ]
+}
+
+TOP
+{
+    "status": "success",
+    "asset_ids": [
+        {
+            "id": "35",
+            "type": "top",
+            "description": "Racing leathers",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I43/asset.png"
+        },
+        {
+            "id": "36",
+            "type": "top",
+            "description": "Biker jacket",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I44/asset.png"
+        },
+        {
+            "id": "37",
+            "type": "top",
+            "description": "Nightwear",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I45/asset.png"
+        },
+        {
+            "id": "38",
+            "type": "top",
+            "description": "Dinner jacket",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I46/asset.png"
+        },
+        {
+            "id": "39",
+            "type": "top",
+            "description": "Shirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I47/asset.png"
+        },
+        {
+            "id": "40",
+            "type": "top",
+            "description": "Poncho",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I48/asset.png"
+        },
+        {
+            "id": "41",
+            "type": "top",
+            "description": "Fairisle jumper",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I49/asset.png"
+        },
+        {
+            "id": "42",
+            "type": "top",
+            "description": "String vest",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I50/asset.png"
+        },
+        {
+            "id": "43",
+            "type": "top",
+            "description": "Open shirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I51/asset.png"
+        },
+        {
+            "id": "44",
+            "type": "top",
+            "description": "Camouflage",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I52/asset.png"
+        },
+        {
+            "id": "45",
+            "type": "top",
+            "description": "Baseball top",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I53/asset.png"
+        },
+        {
+            "id": "46",
+            "type": "top",
+            "description": "Waistcoat",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I54/asset.png"
+        },
+        {
+            "id": "47",
+            "type": "top",
+            "description": "Contrasting t-shirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I55/asset.png"
+        },
+        {
+            "id": "48",
+            "type": "top",
+            "description": "Suit",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I56/asset.png"
+        },
+        {
+            "id": "49",
+            "type": "top",
+            "description": "England soccer top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I57/asset.png"
+        },
+        {
+            "id": "50",
+            "type": "top",
+            "description": "Scotland soccer top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I58/asset.png"
+        },
+        {
+            "id": "51",
+            "type": "top",
+            "description": "Sweden soccer top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I59/asset.png"
+        },
+        {
+            "id": "52",
+            "type": "top",
+            "description": "Norway soccer top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I60/asset.png"
+        },
+        {
+            "id": "53",
+            "type": "top",
+            "description": "Denmark soccer top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I61/asset.png"
+        },
+        {
+            "id": "54",
+            "type": "top",
+            "description": "Netherlands soccer top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I62/asset.png"
+        },
+        {
+            "id": "55",
+            "type": "top",
+            "description": "USA soccer top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I63/asset.png"
+        },
+        {
+            "id": "56",
+            "type": "top",
+            "description": "Track suit",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I64/asset.png"
+        },
+        {
+            "id": "57",
+            "type": "top",
+            "description": "Kilt jacket",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I65/asset.png"
+        },
+        {
+            "id": "59",
+            "type": "top",
+            "description": "Kimono",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I66/asset.png"
+        },
+        {
+            "id": "60",
+            "type": "top",
+            "description": "Halter top",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I67/asset.png"
+        },
+        {
+            "id": "85",
+            "type": "top",
+            "description": "Shirt and tie",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I99/asset.png"
+        },
+        {
+            "id": "86",
+            "type": "top",
+            "description": "Shirt with collar",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I100/asset.png"
+        },
+        {
+            "id": "87",
+            "type": "top",
+            "description": "Vest",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I101/asset.png"
+        },
+        {
+            "id": "88",
+            "type": "top",
+            "description": "Long sleeve t-shirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I102/asset.png"
+        },
+        {
+            "id": "89",
+            "type": "top",
+            "description": "Skull t-shirt",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I103/asset.png"
+        },
+        {
+            "id": "91",
+            "type": "top",
+            "description": "Cardigan",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I105/asset.png"
+        },
+        {
+            "id": "148",
+            "type": "top",
+            "description": "Denim jacket",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I162/asset.png"
+        },
+        {
+            "id": "149",
+            "type": "top",
+            "description": "Trench coat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I163/asset.png"
+        },
+        {
+            "id": "169",
+            "type": "top",
+            "description": "Armour",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I183/asset.png"
+        },
+        {
+            "id": "171",
+            "type": "top",
+            "description": "Black armour",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I185/asset.png"
+        },
+        {
+            "id": "172",
+            "type": "top",
+            "description": "Wizard",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I186/asset.png"
+        },
+        {
+            "id": "174",
+            "type": "top",
+            "description": "Valkyrie",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I188/asset.png"
+        },
+        {
+            "id": "189",
+            "type": "top",
+            "description": "Two sleeve top",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I203/asset.png"
+        },
+        {
+            "id": "208",
+            "type": "top",
+            "description": "Pinstripe suit",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I228/asset.png"
+        },
+        {
+            "id": "216",
+            "type": "top",
+            "description": "Padded tunic",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I236/asset.png"
+        },
+        {
+            "id": "217",
+            "type": "top",
+            "description": "Chainmail",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I237/asset.png"
+        },
+        {
+            "id": "222",
+            "type": "top",
+            "description": "Space cadet",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I242/asset.png"
+        },
+        {
+            "id": "268",
+            "type": "top",
+            "description": "CND t-shirt",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I300/asset.png"
+        },
+        {
+            "id": "272",
+            "type": "top",
+            "description": "Tutu",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I306/asset.png"
+        },
+        {
+            "id": "273",
+            "type": "top",
+            "description": "Miss world",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I307/asset.png"
+        },
+        {
+            "id": "274",
+            "type": "top",
+            "description": "Super heroine",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I308/asset.png"
+        },
+        {
+            "id": "275",
+            "type": "top",
+            "description": "Superhero",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I309/asset.png"
+        },
+        {
+            "id": "276",
+            "type": "top",
+            "description": "Rockabilly suit",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I310/asset.png"
+        },
+        {
+            "id": "277",
+            "type": "top",
+            "description": "Cheerleader",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I311/asset.png"
+        },
+        {
+            "id": "278",
+            "type": "top",
+            "description": "Trooper",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I312/asset.png"
+        },
+        {
+            "id": "295",
+            "type": "top",
+            "description": "Ninja suit",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I329/asset.png"
+        },
+        {
+            "id": "299",
+            "type": "top",
+            "description": "Santa suit",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I333/asset.png"
+        },
+        {
+            "id": "303",
+            "type": "top",
+            "description": "Stripy sweater",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I337/asset.png"
+        },
+        {
+            "id": "306",
+            "type": "top",
+            "description": "Friday 13 boiler suit",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I340/asset.png"
+        },
+        {
+            "id": "313",
+            "type": "top",
+            "description": "Master Chief suit",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I347/asset.png"
+        },
+        {
+            "id": "331",
+            "type": "top",
+            "description": "Dell(TM) t-shirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I363/asset.png"
+        },
+        {
+            "id": "333",
+            "type": "top",
+            "description": "XPS(TM) t-shirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I367/asset.png"
+        },
+        {
+            "id": "342",
+            "type": "top",
+            "description": "Dog collar",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I378/asset.png"
+        },
+        {
+            "id": "343",
+            "type": "top",
+            "description": "Convict suit",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I379/asset.png"
+        },
+        {
+            "id": "349",
+            "type": "top",
+            "description": "Sheepskin coat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I385/asset.png"
+        },
+        {
+            "id": "356",
+            "type": "top",
+            "description": "Cricket jumper",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I392/asset.png"
+        },
+        {
+            "id": "385",
+            "type": "top",
+            "description": "Bat outfit",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I421/asset.png"
+        },
+        {
+            "id": "388",
+            "type": "top",
+            "description": "Scream outfit",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I424/asset.png"
+        },
+        {
+            "id": "396",
+            "type": "top",
+            "description": "Manchester United",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I432/asset.png"
+        },
+        {
+            "id": "397",
+            "type": "top",
+            "description": "Chelsea",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I433/asset.png"
+        },
+        {
+            "id": "398",
+            "type": "top",
+            "description": "Liverpool",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I434/asset.png"
+        },
+        {
+            "id": "399",
+            "type": "top",
+            "description": "Glasgow Rangers",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I435/asset.png"
+        },
+        {
+            "id": "400",
+            "type": "top",
+            "description": "Celtic",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I436/asset.png"
+        },
+        {
+            "id": "401",
+            "type": "top",
+            "description": "Everton",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I437/asset.png"
+        },
+        {
+            "id": "402",
+            "type": "top",
+            "description": "Manchester City",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I438/asset.png"
+        },
+        {
+            "id": "403",
+            "type": "top",
+            "description": "Arsenal",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I439/asset.png"
+        },
+        {
+            "id": "404",
+            "type": "top",
+            "description": "Juventus",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I440/asset.png"
+        },
+        {
+            "id": "405",
+            "type": "top",
+            "description": "AC Milan",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I441/asset.png"
+        },
+        {
+            "id": "406",
+            "type": "top",
+            "description": "Barcelona",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I442/asset.png"
+        },
+        {
+            "id": "407",
+            "type": "top",
+            "description": "LA Galaxy",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I443/asset.png"
+        },
+        {
+            "id": "408",
+            "type": "top",
+            "description": "Chicago Bears",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I444/asset.png"
+        },
+        {
+            "id": "409",
+            "type": "top",
+            "description": "San Fransisco 49ers",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I445/asset.png"
+        },
+        {
+            "id": "410",
+            "type": "top",
+            "description": "Miami Doplhins",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I446/asset.png"
+        },
+        {
+            "id": "411",
+            "type": "top",
+            "description": "Cincinnati Bengals",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I447/asset.png"
+        },
+        {
+            "id": "412",
+            "type": "top",
+            "description": "Dallas Cowboys",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I448/asset.png"
+        },
+        {
+            "id": "413",
+            "type": "top",
+            "description": "NY Jets",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I449/asset.png"
+        },
+        {
+            "id": "414",
+            "type": "top",
+            "description": "Pittsburgh Steelers",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I450/asset.png"
+        },
+        {
+            "id": "437",
+            "type": "top",
+            "description": "I (heart) NY",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I473/asset.png"
+        },
+        {
+            "id": "439",
+            "type": "top",
+            "description": "Pringle golf sweater",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I475/asset.png"
+        },
+        {
+            "id": "440",
+            "type": "top",
+            "description": "Recycle",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I476/asset.png"
+        },
+        {
+            "id": "442",
+            "type": "top",
+            "description": "Captain's  jacket",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I478/asset.png"
+        },
+        {
+            "id": "443",
+            "type": "top",
+            "description": "English hunting jacket",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I479/asset.png"
+        },
+        {
+            "id": "444",
+            "type": "top",
+            "description": "Karate/Judo ",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I480/asset.png"
+        },
+        {
+            "id": "496",
+            "type": "top",
+            "description": "Tiered layer dress",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I7003/asset.png"
+        },
+        {
+            "id": "500",
+            "type": "top",
+            "description": "Hoodie top",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I7007/asset.png"
+        },
+        {
+            "id": "501",
+            "type": "top",
+            "description": "Checked shirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I7008/asset.png"
+        },
+        {
+            "id": "504",
+            "type": "top",
+            "description": "Baywatch swimsuit",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I7011/asset.png"
+        },
+        {
+            "id": "505",
+            "type": "top",
+            "description": "Police uniform",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I7012/asset.png"
+        },
+        {
+            "id": "507",
+            "type": "top",
+            "description": "Sergeant Pepper coat",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I7014/asset.png"
+        },
+        {
+            "id": "508",
+            "type": "top",
+            "description": "Rainbow t-shirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I7015/asset.png"
+        },
+        {
+            "id": "635",
+            "type": "top",
+            "description": "Hockey Top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I635/asset.png"
+        },
+        {
+            "id": "636",
+            "type": "top",
+            "description": "Hockey Top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I636/asset.png"
+        },
+        {
+            "id": "637",
+            "type": "top",
+            "description": "Hockey Top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I637/asset.png"
+        },
+        {
+            "id": "638",
+            "type": "top",
+            "description": "Hockey Top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I638/asset.png"
+        },
+        {
+            "id": "639",
+            "type": "top",
+            "description": "Hockey Top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I639/asset.png"
+        },
+        {
+            "id": "640",
+            "type": "top",
+            "description": "Hockey Top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I640/asset.png"
+        },
+        {
+            "id": "641",
+            "type": "top",
+            "description": "Hockey Top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I641/asset.png"
+        },
+        {
+            "id": "642",
+            "type": "top",
+            "description": "Hockey Top",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I642/asset.png"
+        },
+        {
+            "id": "651",
+            "type": "top",
+            "description": "Strong Man Outfit",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I651/asset.png"
+        },
+        {
+            "id": "653",
+            "type": "top",
+            "description": "Lion Tamer Uniform",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I653/asset.png"
+        },
+        {
+            "id": "657",
+            "type": "top",
+            "description": "Clown Outfit",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I657/asset.png"
+        },
+        {
+            "id": "677",
+            "type": "top",
+            "description": "Zombie Clothes",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I677/asset.png"
+        },
+        {
+            "id": "681",
+            "type": "top",
+            "description": "Roman Armour",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I681/asset.png"
+        },
+        {
+            "id": "690",
+            "type": "top",
+            "description": "Ship Captain Shirt",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I690/asset.png"
+        }
+    ]
+}
+
+ITEM
+{
+    "status": "success",
+    "asset_ids": [
+        {
+            "id": "127",
+            "type": "item",
+            "description": "Whisky",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I141/asset.png"
+        },
+        {
+            "id": "128",
+            "type": "item",
+            "description": "Stout",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I142/asset.png"
+        },
+        {
+            "id": "129",
+            "type": "item",
+            "description": "Coffee",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I143/asset.png"
+        },
+        {
+            "id": "130",
+            "type": "item",
+            "description": "Cocktail",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I144/asset.png"
+        },
+        {
+            "id": "131",
+            "type": "item",
+            "description": "Champagne",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I145/asset.png"
+        },
+        {
+            "id": "132",
+            "type": "item",
+            "description": "Soccer ball",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I146/asset.png"
+        },
+        {
+            "id": "133",
+            "type": "item",
+            "description": "Baseball",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I147/asset.png"
+        },
+        {
+            "id": "134",
+            "type": "item",
+            "description": "Games console",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I148/asset.png"
+        },
+        {
+            "id": "135",
+            "type": "item",
+            "description": "Games console",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I149/asset.png"
+        },
+        {
+            "id": "136",
+            "type": "item",
+            "description": "Surfboard",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I150/asset.png"
+        },
+        {
+            "id": "137",
+            "type": "item",
+            "description": "Skis",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I151/asset.png"
+        },
+        {
+            "id": "138",
+            "type": "item",
+            "description": "Snowboard",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I152/asset.png"
+        },
+        {
+            "id": "139",
+            "type": "item",
+            "description": "Rugby ball",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I153/asset.png"
+        },
+        {
+            "id": "140",
+            "type": "item",
+            "description": "Classical guitar",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I154/asset.png"
+        },
+        {
+            "id": "141",
+            "type": "item",
+            "description": "Electric guitar",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I155/asset.png"
+        },
+        {
+            "id": "142",
+            "type": "item",
+            "description": "Skateboard",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I156/asset.png"
+        },
+        {
+            "id": "143",
+            "type": "item",
+            "description": "Dog",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I157/asset.png"
+        },
+        {
+            "id": "144",
+            "type": "item",
+            "description": "Cat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I158/asset.png"
+        },
+        {
+            "id": "145",
+            "type": "item",
+            "description": "Goldfish",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I159/asset.png"
+        },
+        {
+            "id": "146",
+            "type": "item",
+            "description": "Handbag",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I160/asset.png"
+        },
+        {
+            "id": "147",
+            "type": "item",
+            "description": "Books",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I161/asset.png"
+        },
+        {
+            "id": "175",
+            "type": "item",
+            "description": "Sword",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I189/asset.png"
+        },
+        {
+            "id": "176",
+            "type": "item",
+            "description": "Staff",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I190/asset.png"
+        },
+        {
+            "id": "177",
+            "type": "item",
+            "description": "Axe",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I191/asset.png"
+        },
+        {
+            "id": "178",
+            "type": "item",
+            "description": "Spear",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I192/asset.png"
+        },
+        {
+            "id": "179",
+            "type": "item",
+            "description": "Sheep",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I193/asset.png"
+        },
+        {
+            "id": "180",
+            "type": "item",
+            "description": "Baby",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I194/asset.png"
+        },
+        {
+            "id": "181",
+            "type": "item",
+            "description": "MP3 Player",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I195/asset.png"
+        },
+        {
+            "id": "182",
+            "type": "item",
+            "description": "Fishing rod",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I196/asset.png"
+        },
+        {
+            "id": "183",
+            "type": "item",
+            "description": "Iceskates",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I197/asset.png"
+        },
+        {
+            "id": "184",
+            "type": "item",
+            "description": "American football",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I198/asset.png"
+        },
+        {
+            "id": "207",
+            "type": "item",
+            "description": "Tommy gun",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I227/asset.png"
+        },
+        {
+            "id": "211",
+            "type": "item",
+            "description": "Shield",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I231/asset.png"
+        },
+        {
+            "id": "212",
+            "type": "item",
+            "description": "Mace",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I232/asset.png"
+        },
+        {
+            "id": "213",
+            "type": "item",
+            "description": "Club",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I233/asset.png"
+        },
+        {
+            "id": "214",
+            "type": "item",
+            "description": "Dragon",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I234/asset.png"
+        },
+        {
+            "id": "215",
+            "type": "item",
+            "description": "Fairy",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I235/asset.png"
+        },
+        {
+            "id": "218",
+            "type": "item",
+            "description": "Crossbow",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I238/asset.png"
+        },
+        {
+            "id": "220",
+            "type": "item",
+            "description": "Bow and arrows",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I240/asset.png"
+        },
+        {
+            "id": "221",
+            "type": "item",
+            "description": "Ray gun",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I241/asset.png"
+        },
+        {
+            "id": "233",
+            "type": "item",
+            "description": "Arm in plaster",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I255/asset.png"
+        },
+        {
+            "id": "234",
+            "type": "item",
+            "description": "Flying-V guitar",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I256/asset.png"
+        },
+        {
+            "id": "235",
+            "type": "item",
+            "description": "Microphone",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I257/asset.png"
+        },
+        {
+            "id": "236",
+            "type": "item",
+            "description": "Drum-kit",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I258/asset.png"
+        },
+        {
+            "id": "237",
+            "type": "item",
+            "description": "Golf clubs",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I259/asset.png"
+        },
+        {
+            "id": "238",
+            "type": "item",
+            "description": "Laptop",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I260/asset.png"
+        },
+        {
+            "id": "281",
+            "type": "item",
+            "description": "Rose",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I315/asset.png"
+        },
+        {
+            "id": "282",
+            "type": "item",
+            "description": "Light saber",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I316/asset.png"
+        },
+        {
+            "id": "283",
+            "type": "item",
+            "description": "Wand",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I317/asset.png"
+        },
+        {
+            "id": "284",
+            "type": "item",
+            "description": "Doggy handbag",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I318/asset.png"
+        },
+        {
+            "id": "285",
+            "type": "item",
+            "description": "Handbag",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I319/asset.png"
+        },
+        {
+            "id": "286",
+            "type": "item",
+            "description": "Handbag",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I320/asset.png"
+        },
+        {
+            "id": "287",
+            "type": "item",
+            "description": "Handbag",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I321/asset.png"
+        },
+        {
+            "id": "288",
+            "type": "item",
+            "description": "Roller boots",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I322/asset.png"
+        },
+        {
+            "id": "289",
+            "type": "item",
+            "description": "Pom poms",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I323/asset.png"
+        },
+        {
+            "id": "290",
+            "type": "item",
+            "description": "Pumpkin",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I324/asset.png"
+        },
+        {
+            "id": "291",
+            "type": "item",
+            "description": "Ball and chain",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I325/asset.png"
+        },
+        {
+            "id": "292",
+            "type": "item",
+            "description": "Tennis racquet",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I326/asset.png"
+        },
+        {
+            "id": "297",
+            "type": "item",
+            "description": "Ninja shuriken",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I331/asset.png"
+        },
+        {
+            "id": "298",
+            "type": "item",
+            "description": "Ninja katana",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I332/asset.png"
+        },
+        {
+            "id": "301",
+            "type": "item",
+            "description": "Presents",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I335/asset.png"
+        },
+        {
+            "id": "302",
+            "type": "item",
+            "description": "Trident",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I336/asset.png"
+        },
+        {
+            "id": "304",
+            "type": "item",
+            "description": "Smart phone",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I338/asset.png"
+        },
+        {
+            "id": "307",
+            "type": "item",
+            "description": "Chainsaw",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I341/asset.png"
+        },
+        {
+            "id": "308",
+            "type": "item",
+            "description": "Hairdryer",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I342/asset.png"
+        },
+        {
+            "id": "314",
+            "type": "item",
+            "description": "Electric keyboard",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I348/asset.png"
+        },
+        {
+            "id": "335",
+            "type": "item",
+            "description": "Dell(TM) laptop",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I371/asset.png"
+        },
+        {
+            "id": "336",
+            "type": "item",
+            "description": "XPS(TM) laptop",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I372/asset.png"
+        },
+        {
+            "id": "345",
+            "type": "item",
+            "description": "Stethoscope",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I381/asset.png"
+        },
+        {
+            "id": "351",
+            "type": "item",
+            "description": "Parrot",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I387/asset.png"
+        },
+        {
+            "id": "352",
+            "type": "item",
+            "description": "Pirate cutlass",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I388/asset.png"
+        },
+        {
+            "id": "357",
+            "type": "item",
+            "description": "Pork pie",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I393/asset.png"
+        },
+        {
+            "id": "358",
+            "type": "item",
+            "description": "Shopping bags",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I394/asset.png"
+        },
+        {
+            "id": "360",
+            "type": "item",
+            "description": "Teddy bear",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I396/asset.png"
+        },
+        {
+            "id": "362",
+            "type": "item",
+            "description": "Birthday cake",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I398/asset.png"
+        },
+        {
+            "id": "363",
+            "type": "item",
+            "description": "Bottle of champagne",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I399/asset.png"
+        },
+        {
+            "id": "364",
+            "type": "item",
+            "description": "Big present",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I400/asset.png"
+        },
+        {
+            "id": "365",
+            "type": "item",
+            "description": "Fairy wings",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I401/asset.png"
+        },
+        {
+            "id": "370",
+            "type": "item",
+            "description": "'I love The Hoff' sign",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I406/asset.png"
+        },
+        {
+            "id": "423",
+            "type": "item",
+            "description": "Games console",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I459/asset.png"
+        },
+        {
+            "id": "424",
+            "type": "item",
+            "description": "Games console",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I460/asset.png"
+        },
+        {
+            "id": "425",
+            "type": "item",
+            "description": "Games console",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I461/asset.png"
+        },
+        {
+            "id": "426",
+            "type": "item",
+            "description": "Uefa Cup",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I462/asset.png"
+        },
+        {
+            "id": "427",
+            "type": "item",
+            "description": "World Cup",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I463/asset.png"
+        },
+        {
+            "id": "428",
+            "type": "item",
+            "description": "Professional SLR camera",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I464/asset.png"
+        },
+        {
+            "id": "429",
+            "type": "item",
+            "description": "SLR camera",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I465/asset.png"
+        },
+        {
+            "id": "430",
+            "type": "item",
+            "description": "Ankh",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I466/asset.png"
+        },
+        {
+            "id": "431",
+            "type": "item",
+            "description": "Easter egg",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I467/asset.png"
+        },
+        {
+            "id": "432",
+            "type": "item",
+            "description": "Pony",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I468/asset.png"
+        },
+        {
+            "id": "433",
+            "type": "item",
+            "description": "Unicorn",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I469/asset.png"
+        },
+        {
+            "id": "434",
+            "type": "item",
+            "description": "Scottish terrier",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I470/asset.png"
+        },
+        {
+            "id": "435",
+            "type": "item",
+            "description": "Chequered flag",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I471/asset.png"
+        },
+        {
+            "id": "436",
+            "type": "item",
+            "description": "Money",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I472/asset.png"
+        },
+        {
+            "id": "517",
+            "type": "item",
+            "description": "Cricket bat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I7024/asset.png"
+        },
+        {
+            "id": "518",
+            "type": "item",
+            "description": "Baywatch rescue float",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I7025/asset.png"
+        },
+        {
+            "id": "519",
+            "type": "item",
+            "description": "Wizard wand",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I7026/asset.png"
+        },
+        {
+            "id": "520",
+            "type": "item",
+            "description": "Knitting",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I7027/asset.png"
+        },
+        {
+            "id": "521",
+            "type": "item",
+            "description": "Large fish",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I7028/asset.png"
+        },
+        {
+            "id": "542",
+            "type": "item",
+            "description": "Treasure chest",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I542/asset.png"
+        },
+        {
+            "id": "543",
+            "type": "item",
+            "description": "Clapper board",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I543/asset.png"
+        },
+        {
+            "id": "643",
+            "type": "item",
+            "description": "Hockey Stick",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I643/asset.png"
+        },
+        {
+            "id": "644",
+            "type": "item",
+            "description": "Hockey Cup",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I644/asset.png"
+        },
+        {
+            "id": "652",
+            "type": "item",
+            "description": "Dumbells",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I652/asset.png"
+        },
+        {
+            "id": "655",
+            "type": "item",
+            "description": "Lion",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I655/asset.png"
+        },
+        {
+            "id": "675",
+            "type": "item",
+            "description": "On Fire!",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I675/asset.png"
+        },
+        {
+            "id": "688",
+            "type": "item",
+            "description": "Roman Weapons",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I688/asset.png"
+        }
+    ]
+}
+
+HAT
+{
+    "status": "success",
+    "asset_ids": [
+        {
+            "id": "20",
+            "type": "hat",
+            "description": "Baseball cap",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I28/asset.png"
+        },
+        {
+            "id": "21",
+            "type": "hat",
+            "description": "Ear muffs",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I29/asset.png"
+        },
+        {
+            "id": "22",
+            "type": "hat",
+            "description": "Bobble hat",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I30/asset.png"
+        },
+        {
+            "id": "23",
+            "type": "hat",
+            "description": "Peruvian",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I31/asset.png"
+        },
+        {
+            "id": "24",
+            "type": "hat",
+            "description": "Russian",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I32/asset.png"
+        },
+        {
+            "id": "25",
+            "type": "hat",
+            "description": "Top hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I33/asset.png"
+        },
+        {
+            "id": "26",
+            "type": "hat",
+            "description": "Straw hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I34/asset.png"
+        },
+        {
+            "id": "27",
+            "type": "hat",
+            "description": "Beret",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I35/asset.png"
+        },
+        {
+            "id": "28",
+            "type": "hat",
+            "description": "Irish hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I36/asset.png"
+        },
+        {
+            "id": "29",
+            "type": "hat",
+            "description": "Sun hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I37/asset.png"
+        },
+        {
+            "id": "30",
+            "type": "hat",
+            "description": "Cowboy",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I38/asset.png"
+        },
+        {
+            "id": "31",
+            "type": "hat",
+            "description": "Nurse",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I39/asset.png"
+        },
+        {
+            "id": "32",
+            "type": "hat",
+            "description": "Chef's hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I40/asset.png"
+        },
+        {
+            "id": "33",
+            "type": "hat",
+            "description": "Flower",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I41/asset.png"
+        },
+        {
+            "id": "34",
+            "type": "hat",
+            "description": "Bandana",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I42/asset.png"
+        },
+        {
+            "id": "160",
+            "type": "hat",
+            "description": "Glengarry",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I174/asset.png"
+        },
+        {
+            "id": "161",
+            "type": "hat",
+            "description": "Turban",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I175/asset.png"
+        },
+        {
+            "id": "162",
+            "type": "hat",
+            "description": "Horseriding",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I176/asset.png"
+        },
+        {
+            "id": "163",
+            "type": "hat",
+            "description": "Tiara",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I177/asset.png"
+        },
+        {
+            "id": "164",
+            "type": "hat",
+            "description": "Crown",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I178/asset.png"
+        },
+        {
+            "id": "165",
+            "type": "hat",
+            "description": "French beret",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I179/asset.png"
+        },
+        {
+            "id": "166",
+            "type": "hat",
+            "description": "Hairband",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I180/asset.png"
+        },
+        {
+            "id": "167",
+            "type": "hat",
+            "description": "Viking helmet",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I181/asset.png"
+        },
+        {
+            "id": "168",
+            "type": "hat",
+            "description": "Helm",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I182/asset.png"
+        },
+        {
+            "id": "170",
+            "type": "hat",
+            "description": "Black helm",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I184/asset.png"
+        },
+        {
+            "id": "173",
+            "type": "hat",
+            "description": "Valkyrie helmet",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I187/asset.png"
+        },
+        {
+            "id": "209",
+            "type": "hat",
+            "description": "Trilby",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I229/asset.png"
+        },
+        {
+            "id": "210",
+            "type": "hat",
+            "description": "Norman helmet",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I230/asset.png"
+        },
+        {
+            "id": "219",
+            "type": "hat",
+            "description": "Helmet",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I239/asset.png"
+        },
+        {
+            "id": "250",
+            "type": "hat",
+            "description": "Trooper",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I282/asset.png"
+        },
+        {
+            "id": "251",
+            "type": "hat",
+            "description": "Cyborg",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I283/asset.png"
+        },
+        {
+            "id": "252",
+            "type": "hat",
+            "description": "Bunny ears",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I284/asset.png"
+        },
+        {
+            "id": "253",
+            "type": "hat",
+            "description": "Cat ears",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I285/asset.png"
+        },
+        {
+            "id": "255",
+            "type": "hat",
+            "description": "Indian headband",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I287/asset.png"
+        },
+        {
+            "id": "256",
+            "type": "hat",
+            "description": "Bowler hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I288/asset.png"
+        },
+        {
+            "id": "257",
+            "type": "hat",
+            "description": "Ski goggles",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I289/asset.png"
+        },
+        {
+            "id": "258",
+            "type": "hat",
+            "description": "Devil horns",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I290/asset.png"
+        },
+        {
+            "id": "259",
+            "type": "hat",
+            "description": "Judge's wig",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I291/asset.png"
+        },
+        {
+            "id": "260",
+            "type": "hat",
+            "description": "Pirate",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I292/asset.png"
+        },
+        {
+            "id": "293",
+            "type": "hat",
+            "description": "Dunce hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I327/asset.png"
+        },
+        {
+            "id": "296",
+            "type": "hat",
+            "description": "Ninja hood",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I330/asset.png"
+        },
+        {
+            "id": "300",
+            "type": "hat",
+            "description": "Santa hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I334/asset.png"
+        },
+        {
+            "id": "305",
+            "type": "hat",
+            "description": "Friday 13 Ski Mask",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I339/asset.png"
+        },
+        {
+            "id": "312",
+            "type": "hat",
+            "description": "Master Chief helmet",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I346/asset.png"
+        },
+        {
+            "id": "325",
+            "type": "hat",
+            "description": "Slimed",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I359/asset.png"
+        },
+        {
+            "id": "337",
+            "type": "hat",
+            "description": "Headset",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I373/asset.png"
+        },
+        {
+            "id": "338",
+            "type": "hat",
+            "description": "Mortarboard hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I374/asset.png"
+        },
+        {
+            "id": "340",
+            "type": "hat",
+            "description": "Divers mask",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I376/asset.png"
+        },
+        {
+            "id": "341",
+            "type": "hat",
+            "description": "Halo",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I377/asset.png"
+        },
+        {
+            "id": "344",
+            "type": "hat",
+            "description": "Convict hat",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I380/asset.png"
+        },
+        {
+            "id": "346",
+            "type": "hat",
+            "description": "Police cap",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I382/asset.png"
+        },
+        {
+            "id": "347",
+            "type": "hat",
+            "description": "Builders hard hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I383/asset.png"
+        },
+        {
+            "id": "348",
+            "type": "hat",
+            "description": "Motorcycle helmet",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I384/asset.png"
+        },
+        {
+            "id": "350",
+            "type": "hat",
+            "description": "Fireman hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I386/asset.png"
+        },
+        {
+            "id": "353",
+            "type": "hat",
+            "description": "darthvader",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I389/asset.png"
+        },
+        {
+            "id": "354",
+            "type": "hat",
+            "description": "Space mercenary",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I390/asset.png"
+        },
+        {
+            "id": "371",
+            "type": "hat",
+            "description": "Brown paper bag",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I407/asset.png"
+        },
+        {
+            "id": "386",
+            "type": "hat",
+            "description": "Bat mask",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I422/asset.png"
+        },
+        {
+            "id": "387",
+            "type": "hat",
+            "description": "Scream mask",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I423/asset.png"
+        },
+        {
+            "id": "445",
+            "type": "hat",
+            "description": "Cycle helmet",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I481/asset.png"
+        },
+        {
+            "id": "446",
+            "type": "hat",
+            "description": "Sombrero",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I482/asset.png"
+        },
+        {
+            "id": "447",
+            "type": "hat",
+            "description": "Nightcap",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I483/asset.png"
+        },
+        {
+            "id": "448",
+            "type": "hat",
+            "description": "Bandana mask",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I484/asset.png"
+        },
+        {
+            "id": "449",
+            "type": "hat",
+            "description": "Jester",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I485/asset.png"
+        },
+        {
+            "id": "450",
+            "type": "hat",
+            "description": "Veil",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I486/asset.png"
+        },
+        {
+            "id": "451",
+            "type": "hat",
+            "description": "Arrow through head",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I487/asset.png"
+        },
+        {
+            "id": "452",
+            "type": "hat",
+            "description": "Sailor hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I488/asset.png"
+        },
+        {
+            "id": "453",
+            "type": "hat",
+            "description": "Captain's cap",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I489/asset.png"
+        },
+        {
+            "id": "454",
+            "type": "hat",
+            "description": "English bonnet",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I490/asset.png"
+        },
+        {
+            "id": "455",
+            "type": "hat",
+            "description": "English flat cap",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I491/asset.png"
+        },
+        {
+            "id": "502",
+            "type": "hat",
+            "description": "Super heroine tiara",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I529/asset.png"
+        },
+        {
+            "id": "510",
+            "type": "hat",
+            "description": "Straw trilby",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I7017/asset.png"
+        },
+        {
+            "id": "511",
+            "type": "hat",
+            "description": "Police cap",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I7018/asset.png"
+        },
+        {
+            "id": "536",
+            "type": "hat",
+            "description": "Soldier helmet",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I536/asset.png"
+        },
+        {
+            "id": "537",
+            "type": "hat",
+            "description": "Mouse ears",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I537/asset.png"
+        },
+        {
+            "id": "538",
+            "type": "hat",
+            "description": "Love",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I538/asset.png"
+        },
+        {
+            "id": "539",
+            "type": "hat",
+            "description": "Idea",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I539/asset.png"
+        },
+        {
+            "id": "540",
+            "type": "hat",
+            "description": "Exlaimation",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I540/asset.png"
+        },
+        {
+            "id": "541",
+            "type": "hat",
+            "description": "Rain cloud",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I541/asset.png"
+        },
+        {
+            "id": "654",
+            "type": "hat",
+            "description": "Lion Tamer Hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I654/asset.png"
+        },
+        {
+            "id": "658",
+            "type": "hat",
+            "description": "Clown Hat",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I658/asset.png"
+        },
+        {
+            "id": "676",
+            "type": "hat",
+            "description": "Zombie Mask",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I676/asset.png"
+        },
+        {
+            "id": "683",
+            "type": "hat",
+            "description": "Dwarf Helmet",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I683/asset.png"
+        },
+        {
+            "id": "684",
+            "type": "hat",
+            "description": "Roman Helmet",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I684/asset.png"
+        }
+    ]
+}
+
+HAIR
+{
+    "status": "success",
+    "asset_ids": [
+        {
+            "id": "12",
+            "type": "hair",
+            "description": "Pony tail",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I18/asset.png"
+        },
+        {
+            "id": "14",
+            "type": "hair",
+            "description": "Japanese",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I22/asset.png"
+        },
+        {
+            "id": "15",
+            "type": "hair",
+            "description": "Crew cut",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I23/asset.png"
+        },
+        {
+            "id": "16",
+            "type": "hair",
+            "description": "Dracula",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I24/asset.png"
+        },
+        {
+            "id": "17",
+            "type": "hair",
+            "description": "Thinning",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I25/asset.png"
+        },
+        {
+            "id": "18",
+            "type": "hair",
+            "description": "Short bob",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I26/asset.png"
+        },
+        {
+            "id": "19",
+            "type": "hair",
+            "description": "Long layered style",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I27/asset.png"
+        },
+        {
+            "id": "75",
+            "type": "hair",
+            "description": "Mowhawk",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I89/asset.png"
+        },
+        {
+            "id": "76",
+            "type": "hair",
+            "description": "Curly",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I90/asset.png"
+        },
+        {
+            "id": "77",
+            "type": "hair",
+            "description": "Balding",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I91/asset.png"
+        },
+        {
+            "id": "78",
+            "type": "hair",
+            "description": "Spiky",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I92/asset.png"
+        },
+        {
+            "id": "79",
+            "type": "hair",
+            "description": "Asymmetrical",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I93/asset.png"
+        },
+        {
+            "id": "80",
+            "type": "hair",
+            "description": "Cute bob",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I94/asset.png"
+        },
+        {
+            "id": "81",
+            "type": "hair",
+            "description": "Cute princess",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I95/asset.png"
+        },
+        {
+            "id": "82",
+            "type": "hair",
+            "description": "Long and straight",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I96/asset.png"
+        },
+        {
+            "id": "83",
+            "type": "hair",
+            "description": "Messy",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I97/asset.png"
+        },
+        {
+            "id": "84",
+            "type": "hair",
+            "description": "Braids",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I98/asset.png"
+        },
+        {
+            "id": "150",
+            "type": "hair",
+            "description": "Afro",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I164/asset.png"
+        },
+        {
+            "id": "151",
+            "type": "hair",
+            "description": "Centre parting",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I165/asset.png"
+        },
+        {
+            "id": "152",
+            "type": "hair",
+            "description": "Mid-length curls",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I166/asset.png"
+        },
+        {
+            "id": "153",
+            "type": "hair",
+            "description": "Long curls",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I167/asset.png"
+        },
+        {
+            "id": "154",
+            "type": "hair",
+            "description": "Dredlocks",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I168/asset.png"
+        },
+        {
+            "id": "155",
+            "type": "hair",
+            "description": "Bunches",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I169/asset.png"
+        },
+        {
+            "id": "156",
+            "type": "hair",
+            "description": "Bowl cut",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I170/asset.png"
+        },
+        {
+            "id": "157",
+            "type": "hair",
+            "description": "Short bob",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I171/asset.png"
+        },
+        {
+            "id": "158",
+            "type": "hair",
+            "description": "Long bob",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I172/asset.png"
+        },
+        {
+            "id": "159",
+            "type": "hair",
+            "description": "Tuft",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I173/asset.png"
+        },
+        {
+            "id": "187",
+            "type": "hair",
+            "description": "Side parting",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I201/asset.png"
+        },
+        {
+            "id": "193",
+            "type": "hair",
+            "description": "Bob",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I207/asset.png"
+        },
+        {
+            "id": "262",
+            "type": "hair",
+            "description": "Princess",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I294/asset.png"
+        },
+        {
+            "id": "263",
+            "type": "hair",
+            "description": "Comb over",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I295/asset.png"
+        },
+        {
+            "id": "264",
+            "type": "hair",
+            "description": "Window reflection",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I296/asset.png"
+        },
+        {
+            "id": "265",
+            "type": "hair",
+            "description": "Plaits",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I297/asset.png"
+        },
+        {
+            "id": "266",
+            "type": "hair",
+            "description": "Rockabilly",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I298/asset.png"
+        },
+        {
+            "id": "415",
+            "type": "hair",
+            "description": "Corn rows",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I451/asset.png"
+        },
+        {
+            "id": "463",
+            "type": "hair",
+            "description": "Pharaoh",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I499/asset.png"
+        },
+        {
+            "id": "464",
+            "type": "hair",
+            "description": "Short ringlets",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I500/asset.png"
+        },
+        {
+            "id": "465",
+            "type": "hair",
+            "description": "Long ringlets",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I501/asset.png"
+        },
+        {
+            "id": "466",
+            "type": "hair",
+            "description": "Long corn rows",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I502/asset.png"
+        },
+        {
+            "id": "467",
+            "type": "hair",
+            "description": "Fauxhawk",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I503/asset.png"
+        },
+        {
+            "id": "468",
+            "type": "hair",
+            "description": "Slick",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I504/asset.png"
+        },
+        {
+            "id": "469",
+            "type": "hair",
+            "description": "Trendy",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I505/asset.png"
+        },
+        {
+            "id": "470",
+            "type": "hair",
+            "description": "Twenties",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I506/asset.png"
+        },
+        {
+            "id": "471",
+            "type": "hair",
+            "description": "Spiky crop",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I507/asset.png"
+        },
+        {
+            "id": "472",
+            "type": "hair",
+            "description": "Sleek bob",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I508/asset.png"
+        },
+        {
+            "id": "473",
+            "type": "hair",
+            "description": "Short crop",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I509/asset.png"
+        },
+        {
+            "id": "474",
+            "type": "hair",
+            "description": "Tucked-behind ears",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I510/asset.png"
+        },
+        {
+            "id": "475",
+            "type": "hair",
+            "description": "Working girl",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I511/asset.png"
+        },
+        {
+            "id": "476",
+            "type": "hair",
+            "description": "Rihanna",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I512/asset.png"
+        },
+        {
+            "id": "477",
+            "type": "hair",
+            "description": "Center parting",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I513/asset.png"
+        },
+        {
+            "id": "478",
+            "type": "hair",
+            "description": "Beehive",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I514/asset.png"
+        },
+        {
+            "id": "479",
+            "type": "hair",
+            "description": "Crop",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I515/asset.png"
+        },
+        {
+            "id": "480",
+            "type": "hair",
+            "description": "Forelock",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I516/asset.png"
+        },
+        {
+            "id": "481",
+            "type": "hair",
+            "description": "Bunches",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I517/asset.png"
+        },
+        {
+            "id": "482",
+            "type": "hair",
+            "description": "Loose waves",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I518/asset.png"
+        },
+        {
+            "id": "483",
+            "type": "hair",
+            "description": "Bunches",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I519/asset.png"
+        },
+        {
+            "id": "484",
+            "type": "hair",
+            "description": "Bouffon",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I520/asset.png"
+        },
+        {
+            "id": "485",
+            "type": "hair",
+            "description": "Rock chick",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I521/asset.png"
+        },
+        {
+            "id": "486",
+            "type": "hair",
+            "description": "Pulled back",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I522/asset.png"
+        },
+        {
+            "id": "487",
+            "type": "hair",
+            "description": "Curl",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I523/asset.png"
+        },
+        {
+            "id": "488",
+            "type": "hair",
+            "description": "Feathered",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I524/asset.png"
+        },
+        {
+            "id": "489",
+            "type": "hair",
+            "description": "Side parting",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I525/asset.png"
+        },
+        {
+            "id": "490",
+            "type": "hair",
+            "description": "Simple fringe",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I526/asset.png"
+        },
+        {
+            "id": "491",
+            "type": "hair",
+            "description": "Over eyes",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I527/asset.png"
+        },
+        {
+            "id": "492",
+            "type": "hair",
+            "description": "Hime cut",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I528/asset.png"
+        },
+        {
+            "id": "656",
+            "type": "hair",
+            "description": "Clown Hair",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I656/asset.png"
+        }
+    ]
+}
+
+FOOT
+{
+    "status": "success",
+    "asset_ids": [
+        {
+            "id": "118",
+            "type": "foot",
+            "description": "Football boots",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I132/asset.png"
+        },
+        {
+            "id": "119",
+            "type": "foot",
+            "description": "Boots",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I133/asset.png"
+        },
+        {
+            "id": "120",
+            "type": "foot",
+            "description": "Wellington boots",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I134/asset.png"
+        },
+        {
+            "id": "121",
+            "type": "foot",
+            "description": "High heels",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I135/asset.png"
+        },
+        {
+            "id": "122",
+            "type": "foot",
+            "description": "Sandals",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I136/asset.png"
+        },
+        {
+            "id": "190",
+            "type": "foot",
+            "description": "Sneakers/trainers",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I204/asset.png"
+        },
+        {
+            "id": "196",
+            "type": "foot",
+            "description": "Sensible shoes",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I210/asset.png"
+        },
+        {
+            "id": "280",
+            "type": "foot",
+            "description": "Sheepskin boots",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I314/asset.png"
+        },
+        {
+            "id": "366",
+            "type": "foot",
+            "description": "Riding boots",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I402/asset.png"
+        },
+        {
+            "id": "456",
+            "type": "foot",
+            "description": "Pirate boots",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I492/asset.png"
+        }
+    ]
+}
+
+FACIAL
+{
+    "status": "success",
+    "asset_ids": [
+        {
+            "id": "7",
+            "type": "facial",
+            "description": "Moustache",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I13/asset.png"
+        },
+        {
+            "id": "8",
+            "type": "facial",
+            "description": "Goatee",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I14/asset.png"
+        },
+        {
+            "id": "9",
+            "type": "facial",
+            "description": "Moustache and goatee",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I15/asset.png"
+        },
+        {
+            "id": "10",
+            "type": "facial",
+            "description": "Beard",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I16/asset.png"
+        },
+        {
+            "id": "11",
+            "type": "facial",
+            "description": "Full beard",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I17/asset.png"
+        },
+        {
+            "id": "204",
+            "type": "facial",
+            "description": "Cigar",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I224/asset.png"
+        },
+        {
+            "id": "249",
+            "type": "facial",
+            "description": "Eyelashes",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I281/asset.png"
+        },
+        {
+            "id": "261",
+            "type": "facial",
+            "description": "Blushing cheeks",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I293/asset.png"
+        },
+        {
+            "id": "294",
+            "type": "facial",
+            "description": "Handlebar moustache",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I328/asset.png"
+        },
+        {
+            "id": "361",
+            "type": "facial",
+            "description": "Stubble",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I397/asset.png"
+        },
+        {
+            "id": "512",
+            "type": "facial",
+            "description": "Wizard scar",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I7019/asset.png"
+        }
+    ]
+}
+
+FACE
+{
+    "status": "success",
+    "asset_ids": [
+        {
+            "id": "1",
+            "type": "face",
+            "description": "Wink",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I1/asset.png"
+        },
+        {
+            "id": "3",
+            "type": "face",
+            "description": "Angry",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I5/asset.png"
+        },
+        {
+            "id": "5",
+            "type": "face",
+            "description": "Sleepy",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I9/asset.png"
+        },
+        {
+            "id": "67",
+            "type": "face",
+            "description": "Smile",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I73/asset.png"
+        },
+        {
+            "id": "69",
+            "type": "face",
+            "description": "Sad",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I77/asset.png"
+        },
+        {
+            "id": "71",
+            "type": "face",
+            "description": "Coy",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I81/asset.png"
+        },
+        {
+            "id": "73",
+            "type": "face",
+            "description": "Surprise",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I85/asset.png"
+        },
+        {
+            "id": "186",
+            "type": "face",
+            "description": "Grin",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I199/asset.png"
+        },
+        {
+            "id": "198",
+            "type": "face",
+            "description": "Confused",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I212/asset.png"
+        },
+        {
+            "id": "200",
+            "type": "face",
+            "description": "Tongue",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I216/asset.png"
+        },
+        {
+            "id": "202",
+            "type": "face",
+            "description": "Black-eye",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I220/asset.png"
+        },
+        {
+            "id": "239",
+            "type": "face",
+            "description": "Dizzy",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I261/asset.png"
+        },
+        {
+            "id": "241",
+            "type": "face",
+            "description": "Evil grin",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I265/asset.png"
+        },
+        {
+            "id": "243",
+            "type": "face",
+            "description": "Evil smile",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I269/asset.png"
+        },
+        {
+            "id": "245",
+            "type": "face",
+            "description": "Embarrassed",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I273/asset.png"
+        },
+        {
+            "id": "247",
+            "type": "face",
+            "description": "Vampire",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I277/asset.png"
+        },
+        {
+            "id": "310",
+            "type": "face",
+            "description": "Kissed",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I344/asset.png"
+        },
+        {
+            "id": "330",
+            "type": "face",
+            "description": "Lobotomy",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I362/asset.png"
+        },
+        {
+            "id": "416",
+            "type": "face",
+            "description": "Crying",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I452/asset.png"
+        },
+        {
+            "id": "418",
+            "type": "face",
+            "description": "Half-asleep",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I454/asset.png"
+        },
+        {
+            "id": "420",
+            "type": "face",
+            "description": "Serious",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I456/asset.png"
+        },
+        {
+            "id": "422",
+            "type": "face",
+            "description": "Rockstar",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I458/asset.png"
+        },
+        {
+            "id": "659",
+            "type": "face",
+            "description": "Clown Makeup",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I659/asset.png"
+        },
+        {
+            "id": "660",
+            "type": "face",
+            "description": "Clown Makeup",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I660/asset.png"
+        },
+        {
+            "id": "661",
+            "type": "face",
+            "description": "Clown Makeup",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I661/asset.png"
+        }
+    ]
+}
+
+BACKGROUND
+
+{
+    "status": "success",
+    "asset_ids": [
+        {
+            "id": "1",
+            "type": "face",
+            "description": "Wink",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I1/asset.png"
+        },
+        {
+            "id": "3",
+            "type": "face",
+            "description": "Angry",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I5/asset.png"
+        },
+        {
+            "id": "5",
+            "type": "face",
+            "description": "Sleepy",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I9/asset.png"
+        },
+        {
+            "id": "67",
+            "type": "face",
+            "description": "Smile",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I73/asset.png"
+        },
+        {
+            "id": "69",
+            "type": "face",
+            "description": "Sad",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I77/asset.png"
+        },
+        {
+            "id": "71",
+            "type": "face",
+            "description": "Coy",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I81/asset.png"
+        },
+        {
+            "id": "73",
+            "type": "face",
+            "description": "Surprise",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I85/asset.png"
+        },
+        {
+            "id": "186",
+            "type": "face",
+            "description": "Grin",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I199/asset.png"
+        },
+        {
+            "id": "198",
+            "type": "face",
+            "description": "Confused",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I212/asset.png"
+        },
+        {
+            "id": "200",
+            "type": "face",
+            "description": "Tongue",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I216/asset.png"
+        },
+        {
+            "id": "202",
+            "type": "face",
+            "description": "Black-eye",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I220/asset.png"
+        },
+        {
+            "id": "239",
+            "type": "face",
+            "description": "Dizzy",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I261/asset.png"
+        },
+        {
+            "id": "241",
+            "type": "face",
+            "description": "Evil grin",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I265/asset.png"
+        },
+        {
+            "id": "243",
+            "type": "face",
+            "description": "Evil smile",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I269/asset.png"
+        },
+        {
+            "id": "245",
+            "type": "face",
+            "description": "Embarrassed",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I273/asset.png"
+        },
+        {
+            "id": "247",
+            "type": "face",
+            "description": "Vampire",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I277/asset.png"
+        },
+        {
+            "id": "310",
+            "type": "face",
+            "description": "Kissed",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I344/asset.png"
+        },
+        {
+            "id": "330",
+            "type": "face",
+            "description": "Lobotomy",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I362/asset.png"
+        },
+        {
+            "id": "416",
+            "type": "face",
+            "description": "Crying",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I452/asset.png"
+        },
+        {
+            "id": "418",
+            "type": "face",
+            "description": "Half-asleep",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I454/asset.png"
+        },
+        {
+            "id": "420",
+            "type": "face",
+            "description": "Serious",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I456/asset.png"
+        },
+        {
+            "id": "422",
+            "type": "face",
+            "description": "Rockstar",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I458/asset.png"
+        },
+        {
+            "id": "659",
+            "type": "face",
+            "description": "Clown Makeup",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I659/asset.png"
+        },
+        {
+            "id": "660",
+            "type": "face",
+            "description": "Clown Makeup",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I660/asset.png"
+        },
+        {
+            "id": "661",
+            "type": "face",
+            "description": "Clown Makeup",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I661/asset.png"
+        }
+    ]
+}
+
+BOTTOM
+
+{
+    "status": "success",
+    "asset_ids": [
+        {
+            "id": "95",
+            "type": "bottom",
+            "description": "Jeans",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I109/asset.png"
+        },
+        {
+            "id": "96",
+            "type": "bottom",
+            "description": "Shorts",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I110/asset.png"
+        },
+        {
+            "id": "97",
+            "type": "bottom",
+            "description": "Formal trousers",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I111/asset.png"
+        },
+        {
+            "id": "98",
+            "type": "bottom",
+            "description": "Baggy trousers",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I112/asset.png"
+        },
+        {
+            "id": "99",
+            "type": "bottom",
+            "description": "Briefs",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I113/asset.png"
+        },
+        {
+            "id": "100",
+            "type": "bottom",
+            "description": "Short skirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I114/asset.png"
+        },
+        {
+            "id": "101",
+            "type": "bottom",
+            "description": "Leggings with hearts",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I115/asset.png"
+        },
+        {
+            "id": "102",
+            "type": "bottom",
+            "description": "Hipsters",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I116/asset.png"
+        },
+        {
+            "id": "103",
+            "type": "bottom",
+            "description": "Leggings",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I117/asset.png"
+        },
+        {
+            "id": "104",
+            "type": "bottom",
+            "description": "Knickers",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I118/asset.png"
+        },
+        {
+            "id": "105",
+            "type": "bottom",
+            "description": "Sport shorts",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I119/asset.png"
+        },
+        {
+            "id": "106",
+            "type": "bottom",
+            "description": "Thong",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I120/asset.png"
+        },
+        {
+            "id": "107",
+            "type": "bottom",
+            "description": "Baggy jeans",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I121/asset.png"
+        },
+        {
+            "id": "108",
+            "type": "bottom",
+            "description": "Flares",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I122/asset.png"
+        },
+        {
+            "id": "109",
+            "type": "bottom",
+            "description": "Ripped jeans",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I123/asset.png"
+        },
+        {
+            "id": "110",
+            "type": "bottom",
+            "description": "Kilt",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I124/asset.png"
+        },
+        {
+            "id": "111",
+            "type": "bottom",
+            "description": "Suit trousers",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I125/asset.png"
+        },
+        {
+            "id": "112",
+            "type": "bottom",
+            "description": "Union Jack shorts",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I126/asset.png"
+        },
+        {
+            "id": "113",
+            "type": "bottom",
+            "description": "Stars and Stripes shorts",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I127/asset.png"
+        },
+        {
+            "id": "114",
+            "type": "bottom",
+            "description": "Sarong",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I128/asset.png"
+        },
+        {
+            "id": "115",
+            "type": "bottom",
+            "description": "Thong",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I129/asset.png"
+        },
+        {
+            "id": "116",
+            "type": "bottom",
+            "description": "Aline skirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I130/asset.png"
+        },
+        {
+            "id": "117",
+            "type": "bottom",
+            "description": "Pencil skirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I131/asset.png"
+        },
+        {
+            "id": "188",
+            "type": "bottom",
+            "description": "Bootcut",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I202/asset.png"
+        },
+        {
+            "id": "194",
+            "type": "bottom",
+            "description": "Skirt",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I208/asset.png"
+        },
+        {
+            "id": "229",
+            "type": "bottom",
+            "description": "Cargo pants",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I251/asset.png"
+        },
+        {
+            "id": "230",
+            "type": "bottom",
+            "description": "Cargo shorts",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I252/asset.png"
+        },
+        {
+            "id": "231",
+            "type": "bottom",
+            "description": "Punk",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I253/asset.png"
+        },
+        {
+            "id": "232",
+            "type": "bottom",
+            "description": "Urban",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I254/asset.png"
+        },
+        {
+            "id": "279",
+            "type": "bottom",
+            "description": "Fishnet stockings",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I313/asset.png"
+        },
+        {
+            "id": "355",
+            "type": "bottom",
+            "description": "Cricket pads",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I391/asset.png"
+        },
+        {
+            "id": "367",
+            "type": "bottom",
+            "description": "Riding jodhpurs",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I403/asset.png"
+        },
+        {
+            "id": "625",
+            "type": "bottom",
+            "description": "Wheelchair",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I625/asset.png"
+        }
+    ]
+}
+
+EYE
+
+{
+    "status": "success",
+    "asset_ids": [
+        {
+            "id": "123",
+            "type": "eye",
+            "description": "Aviator glasses",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I137/asset.png"
+        },
+        {
+            "id": "124",
+            "type": "eye",
+            "description": "Wraps",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I138/asset.png"
+        },
+        {
+            "id": "125",
+            "type": "eye",
+            "description": "Big glasses",
+            "colorable": "Y",
+            "thumbnailSrc": "https://www.doppelme.com/I139/asset.png"
+        },
+        {
+            "id": "126",
+            "type": "eye",
+            "description": "Glasses",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I140/asset.png"
+        },
+        {
+            "id": "205",
+            "type": "eye",
+            "description": "Eye patch",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I225/asset.png"
+        },
+        {
+            "id": "206",
+            "type": "eye",
+            "description": "Monacle",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I226/asset.png"
+        },
+        {
+            "id": "224",
+            "type": "eye",
+            "description": "Futuristic visor",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I246/asset.png"
+        },
+        {
+            "id": "254",
+            "type": "eye",
+            "description": "Zorro mask",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I286/asset.png"
+        },
+        {
+            "id": "457",
+            "type": "eye",
+            "description": "Penny round glasses",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I493/asset.png"
+        },
+        {
+            "id": "458",
+            "type": "eye",
+            "description": "Reading glasses",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I494/asset.png"
+        },
+        {
+            "id": "459",
+            "type": "eye",
+            "description": "Rock-star glasses",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I495/asset.png"
+        },
+        {
+            "id": "493",
+            "type": "eye",
+            "description": "Hexagon sunglasses",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I7000/asset.png"
+        },
+        {
+            "id": "494",
+            "type": "eye",
+            "description": "Heart shaped sunglasses",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I7001/asset.png"
+        },
+        {
+            "id": "495",
+            "type": "eye",
+            "description": "Rayban flat top sunglasses",
+            "colorable": "N",
+            "thumbnailSrc": "https://www.doppelme.com/I7002/asset.png"
+        }
+    ]
+}
+
+
