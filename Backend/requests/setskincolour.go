@@ -12,24 +12,24 @@ import (
 )
 
 // eso verecek
-type add_assetitem struct {
-	AssetId string `json:"asset_id"`
+type set_skincolour struct {
+	Skincolour string `json:"skin_colour"`
 }
 
-type Response2 struct {
+type Response3 struct {
 	Body []Apiresp `json:"body"`
 }
 
-func Addassets(c *fiber.Ctx) error {
+func Setskincolour(c *fiber.Ctx) error {
 
-	var esorequest add_assetitem
+	var esorequest set_skincolour
 
 	c.BodyParser(&esorequest)
 
 	var getdoppelme Apiresp
 	c.BodyParser(&getdoppelme)
 
-	URL := fmt.Sprintf("https://doppelme-avatars.p.rapidapi.com/avatar/%s/%s", getdoppelme.Doppelme_key, esorequest.AssetId)
+	URL := fmt.Sprintf("https://doppelme-avatars.p.rapidapi.com/avatar/%s/skin/%s", getdoppelme.Doppelme_key, esorequest.Skincolour)
 
 	req, _ := http.NewRequest("PUT", URL, nil)
 
