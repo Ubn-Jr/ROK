@@ -72,13 +72,13 @@ func Addassets(c *fiber.Ctx) error {
 		return err
 	}
 
-	err = c.JSON(response.Doppelme_key)
+	err = c.JSON(response.Status)
 	if err != nil {
 		log.Println(err)
 		return err
 	}
 
-	err = c.JSON(response.Status)
+	err = c.JSON(response.AvatarSrc)
 	if err != nil {
 		log.Println(err)
 		return err
