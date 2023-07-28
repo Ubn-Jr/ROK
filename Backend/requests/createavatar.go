@@ -16,6 +16,10 @@ type APIKEY struct {
 	Key string `json:"APIKEY"`
 }
 
+type APIKEYs struct {
+	APIKEYs []APIKEY `json:"APIKEY"`
+}
+
 // eso verecek
 type bodytype_id struct {
 	BodytypeId string `json:"bodytype_id"`
@@ -48,6 +52,7 @@ func Create(c *fiber.Ctx) error {
 	json.Unmarshal(jsonBytes, &apiKeyData)
 
 	ApiKEY := apiKeyData.Key
+
 	req.Header.Add("X-RapidAPI-Key", ApiKEY)
 	req.Header.Add("X-RapidAPI-Host", "doppelme-avatars.p.rapidapi.com")
 
