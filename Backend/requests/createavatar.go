@@ -49,7 +49,6 @@ func Create(c *fiber.Ctx) error {
 
 	URL := fmt.Sprintf("https://doppelme-avatars.p.rapidapi.com/avatar/%s/", esorequest.BodytypeId)
 
-
 	filePath := "key.json"
 	jsonBytes, _ := os.ReadFile(filePath)
 
