@@ -7,6 +7,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"reflect"
 
 	"github.com/gofiber/fiber/v2"
 )
@@ -31,51 +32,121 @@ func Setskincolour(c *fiber.Ctx) error {
 
 	URL := fmt.Sprintf("https://doppelme-avatars.p.rapidapi.com/avatar/%s/skin/%s", getdoppelme.Doppelme_key, esorequest.Skincolour)
 
-	req, _ := http.NewRequest("PUT", URL, nil)
-
 	filePath := "key.json"
 	jsonBytes, _ := os.ReadFile(filePath)
+
 	var apiKeyData APIKEY
 
-	json.Unmarshal(jsonBytes, &apiKeyData)
-
-	ApiKEY := apiKeyData.Key
-	req.Header.Add("X-RapidAPI-Key", ApiKEY)
-	req.Header.Add("X-RapidAPI-Host", "doppelme-avatars.p.rapidapi.com")
-
-	res, err := http.DefaultClient.Do(req)
+	err := json.Unmarshal(jsonBytes, &apiKeyData)
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	defer res.Body.Close()
+	var apiResp Apiresp
 
-	body, err := io.ReadAll(res.Body)
-	if err != nil {
-		fmt.Println(err)
+	for i := 0; i < 7; {
+
+		ApiKEY := fmt.Sprintf("Key%d", i)
+
+		// Get the API key from the APIKEY struct
+		apiKeyVal := reflect.ValueOf(apiKeyData.Api_keys[i]).FieldByName(ApiKEY).String()
+
+		fmt.Println("apiKeyVal:", apiKeyVal)
+
+		req, _ := http.NewRequest("PUT", URL, nil)
+
+		req.Header.Add("X-RapidAPI-Key", apiKeyVal)
+		req.Header.Add("X-RapidAPI-Host", "doppelme-avatars.p.rapidapi.com")
+
+		res, err := http.DefaultClient.Do(req)
+		if err != nil {
+			log.Println(err)
+			return err
+		}
+
+		// res.StatusCode
+
+		defer res.Body.Close()
+
+		body, err := io.ReadAll(res.Body)
+		if err != nil {
+			fmt.Println("io.ReadAll", err)
+		}
+
+		bodystring := string(body)
+		fmt.Println(bodystring)
+
+		err = json.Unmarshal([]byte(bodystring), &apiResp)
+		if err != nil {
+			log.Default()
+		}
+
+		// fmt.Println("apiResp.Message", apiResp.Message)
+		if res.StatusCode == 429 {
+			fmt.Println("apiKeyVal", apiKeyVal, bodystring)
+			fmt.Println("i:", i, "API KEY FULL TRIAL")
+			i += 1
+			continue
+		} else if res.StatusCode != 200 {
+			fmt.Println("i: ", i, "else ife girdi")
+
+			err = c.JSON(apiResp.Message)
+			if err != nil {
+				log.Println(err)
+				return err
+			}
+			err = c.JSON(res.StatusCode)
+			if err != nil {
+				log.Println(err)
+				return err
+			}
+			var response Apiresp
+			err := json.Unmarshal([]byte(bodystring), &response)
+			if err != nil {
+				log.Println(err)
+				return err
+			}
+			fmt.Println(err)
+
+			err = c.JSON(response.Status)
+			if err != nil {
+				log.Println(err)
+				return err
+			}
+
+			err = c.JSON(response.AvatarSrc)
+			if err != nil {
+				log.Println(err)
+				return err
+			}
+
+			break
+		} else {
+			fmt.Println("i: ", i, "else girdi")
+			var response Apiresp
+			err := json.Unmarshal([]byte(bodystring), &response)
+			if err != nil {
+				log.Println(err)
+				return err
+			}
+			fmt.Println(err)
+
+			err = c.JSON(response.Status)
+			if err != nil {
+				log.Println(err)
+				return err
+			}
+
+			err = c.JSON(response.AvatarSrc)
+			if err != nil {
+				log.Println(err)
+				return err
+			}
+
+			break
+		}
+
 	}
 
-	bodystring := string(body)
-
-	var response Apiresp
-
-	err = json.Unmarshal([]byte(bodystring), &response)
-	if err != nil {
-		log.Println(err)
-		return err
-	}
-
-	err = c.JSON(response.Status)
-	if err != nil {
-		log.Println(err)
-		return err
-	}
-
-	err = c.JSON(response.AvatarSrc)
-	if err != nil {
-		log.Println(err)
-		return err
-	}
-
-	return err
+	return nil
 }
