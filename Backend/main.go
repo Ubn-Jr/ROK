@@ -14,5 +14,5 @@ func main() {
 	app.Get("/addassetitem", avatar.Addassets)
 	app.Get("/setskincolour", avatar.Setskincolour)
 
-	log.Fatal(app.Listen(":8000"))
+	log.Fatal(app.Listen(":8080"))
 }
