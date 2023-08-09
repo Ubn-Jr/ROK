@@ -43,12 +43,16 @@ type Response struct {
 }
 
 func Create(c *fiber.Ctx) error {
+
+	fmt.Println("POST (Create Avatar) Request Received")
+
 	var esorequest bodytype_id
 
 	c.BodyParser(&esorequest)
 
 	URL := fmt.Sprintf("https://doppelme-avatars.p.rapidapi.com/avatar/%s/", esorequest.BodytypeId)
 
+	fmt.Println("eso request:", esorequest.BodytypeId)
 
 	filePath := "key.json"
 	jsonBytes, _ := os.ReadFile(filePath)
@@ -155,11 +159,11 @@ func Create(c *fiber.Ctx) error {
 				return err
 			}
 
-			err = c.JSON(response.AvatarSrc)
-			if err != nil {
-				log.Println(err)
-				return err
-			}
+			// err = c.JSON(response.AvatarSrc)
+			// if err != nil {
+			// 	log.Println(err)
+			// 	return err
+			// }
 
 			break
 		}

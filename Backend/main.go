@@ -10,7 +10,7 @@ import (
 func main() {
 	app := fiber.New()
 
-	app.Get("/avatargender", avatar.Create)
+	app.Post("/avatargender", avatar.Create)
 	app.Get("/addassetitem", avatar.Addassets)
 	app.Get("/setskincolour", avatar.Setskincolour)
 
